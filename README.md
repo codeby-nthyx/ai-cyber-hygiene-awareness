@@ -21,6 +21,7 @@ This project develops and evaluates an AI-assisted cyber-hygiene awareness campa
 | Awareness article | `content/awareness-article.md` |
 | Six social posts | `content/social-media-posts.md` |
 | Video script and storyboard | `content/video-script-storyboard.md` |
+| Video-generation prompt | `content/video-generation-prompt.md` |
 | Ten-question quiz and key | `content/quiz.md` |
 | Tip dataset and generator | `automation/` |
 | Prompt library | `documentation/prompt-library.md` |
@@ -28,11 +29,11 @@ This project develops and evaluates an AI-assisted cyber-hygiene awareness campa
 | Before/after comparison | `documentation/before-after-analysis.md` |
 | Responsible AI notes | `documentation/responsible-ai-and-limitations.md` |
 | AI tools and skills register | `documentation/ai-tools-and-skills-register.md` |
-| Live demo guide | `documentation/demo-guide.md` |
 | Presentation | [Editable Canva presentation](https://canva.link/sb154mzu9jjjh18) |
+| Campaign infographic | [Editable Canva infographic](https://canva.link/9x4k1co3ma8blmc) |
 
 ## Use and verification
-This repository is an educational prototype. Do not treat campaign copy as incident-response or organisation-specific security advice. Review official guidance and local policies before reuse. The verification log distinguishes checked claims from claims that still require a recorded manual review.
+This repository is an educational prototype. The video deliverable currently includes a complete script and storyboard; a rendered video is not included. Do not treat campaign copy as incident-response or organisation-specific security advice. Review official guidance and local policies before reuse. The verification log distinguishes checked claims from claims that still require a recorded manual review.
 
 ## Run the automation
 Requires Python 3.10+; no third-party packages are required.
