@@ -10,7 +10,7 @@ This project develops and evaluates an AI-assisted cyber-hygiene awareness campa
 ## Campaign objectives
 1. Explain five everyday cyber-hygiene behaviours in accessible language.
 2. Produce reusable educational content across text, social, presentation and video formats.
-3. Demonstrate prompt design, source verification, error analysis and responsible AI use.
+3. Document prompt design, source verification, error analysis and responsible AI use.
 4. Provide a simple local automation that converts approved campaign tips into draft social copy.
 5. Compare an initial AI draft with a source-checked, human-edited version.
 
