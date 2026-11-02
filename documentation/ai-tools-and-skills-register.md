@@ -7,8 +7,8 @@ Only record tools that were actually used for the project. The current working r
 |---|---|---|---|
 | ChatGPT | Research planning, drafting, editing, quiz and code assistance | Prompt excerpts and dated screenshots/export | Used in this working session; retain evidence |
 | Canva | Create and edit the campaign presentation | Editable design link and exported slide preview | Presentation generated; review before submission |
-| Gemini / NotebookLM | Optional independent claim review or source-grounded quiz | Actual prompt/output screenshots | Not recorded as used |
-| Perplexity | Optional source discovery | Actual search history/screenshots | Not recorded as used |
+| NotebookLM | Research support: organise and review source material for the campaign | NotebookLM notebook/source list and actual research notes or screenshots | Used for research; retain evidence of the notebook and sources |
+| Perplexity | Research support: discover relevant public sources and supporting material | Search history, source links and actual research notes/screenshots | Used for research; retain evidence of searches and sources |
 | Python 3 | Run the local CSV-to-Markdown automation | Terminal screenshot and generated file | Run locally and capture evidence |
 
 Do not list an optional tool as used unless you personally use it and retain evidence.
