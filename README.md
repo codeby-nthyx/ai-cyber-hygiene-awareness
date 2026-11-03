@@ -29,6 +29,7 @@ This project develops and evaluates an AI-assisted cyber-hygiene awareness campa
 | Before/after comparison | `documentation/before-after-analysis.md` |
 | Responsible AI notes | `documentation/responsible-ai-and-limitations.md` |
 | AI tools and skills register | `documentation/ai-tools-and-skills-register.md` |
+| Submission compliance checklist | `documentation/submission-compliance-checklist.md` |
 | Presentation | [Editable Canva presentation](https://canva.link/sb154mzu9jjjh18) |
 | Campaign infographic | [Editable Canva infographic](https://canva.link/9x4k1co3ma8blmc) |
 
