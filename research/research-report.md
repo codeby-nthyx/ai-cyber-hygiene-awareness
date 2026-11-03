@@ -93,4 +93,4 @@ A useful student cyber-hygiene campaign should prioritise simple actions, avoid 
 5. Apple Support, How to back up your iPhone: https://support.apple.com/en-in/HT203977
 6. Microsoft Support, Backup and restore in Windows: https://support.microsoft.com/windows
 
-**Verification status:** These are the intended primary references for the campaign. Before final academic submission, open each source, record the exact page title and access date, and ensure the cited page supports the specific claim used.
+**Verification status:** The claim-level checks and access dates recorded in `documentation/verification-and-error-analysis.md` are the campaign's verification record. The sources listed above are the research reference set; use the claim register for the specific checked wording and scope. Recheck live pages before reuse because guidance can change.
